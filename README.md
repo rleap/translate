@@ -1,3 +1,9 @@
+# Translate
+
+This is an example React app that allows the user to simply select a language to tranlate the page.
+
+Demo: <a href="https://rleap.github.io/translate">Translate</a>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
