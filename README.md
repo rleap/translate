@@ -1,6 +1,6 @@
 # Translate
 
-This is an example React app that allows the user to simply select a language to tranlate the page.
+This is an example React app that allows the user to simply select a language to tranlate the page.  It uses the Context approach to handle state.
 
 Demo: <a href="https://rleap.github.io/translate/">Translate</a>
 
